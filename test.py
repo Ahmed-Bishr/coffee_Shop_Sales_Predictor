@@ -4,6 +4,8 @@ import math
 
 # making a change to test the commit now
 
+# let me try to add a new stuff to make sure everything is working
+
 # --- DATA ---
 x_train = np.array([10, 15, 20, 25, 30])  # temperature
 y_train = np.array([85, 70, 62, 48, 35])  # sold cups
