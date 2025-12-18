@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
+# making a change to test the commit now
 
 # --- DATA ---
 x_train = np.array([10, 15, 20, 25, 30])  # temperature
